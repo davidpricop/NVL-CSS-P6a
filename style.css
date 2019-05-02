@@ -1,0 +1,53 @@
+
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+#titulo {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+th {
+    font-size: 17px;
+    font-family: sans-serif; 
+}
+
+img {
+    width: 100px;
+}
+
+#td1 {
+    background-color: #fff;
+}
+#td2 {
+    background-color: #d1d1d1;
+}
+#td3 {
+    background-color: #b8b8b8;
+}
+#td4 {
+    background-color: #9e9e9e;
+}
+#td5 {
+    background-color: #8c8c8c;
+}
+#td6 {
+    background-color: #828282;
+}
+#td7 {
+    background-color: #787878;
+}
+#td8 {
+    color: white;
+    background-color: #737373;
+}
+#td9 {
+    color: white;
+    background-color: #4a4a4a;
+}
+#td10 {
+    color: white;
+    background-color: #000;
+}
